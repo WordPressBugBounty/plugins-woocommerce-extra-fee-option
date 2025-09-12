@@ -5,8 +5,8 @@ Plugin Name: TT Extra Fee Option for WooCommerce
 Plugin URI:  https://terrytsang.com/product/tt-woocommerce-extra-fee-option/
 Tags: woocommerce, extra fee, minimum order, service charge, e-commerce, payment, shipping, product, category
 Requires at least: 3.6.1
-Tested up to: 6.1.1
-Stable tag: 1.1.1
+Tested up to: 6.8.2
+Stable tag: 1.1.2
 License: GPLv2 or later
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
@@ -60,6 +60,14 @@ In WooCommerce sidemenu, there will be a new submenu link called 'TT Extra Fee O
 3. [screenhot-3.png] Screenshot Frontend WooCommerce - Checkout page
 
 == Changelog ==
+
+= 1.1.2 =
+* Testing up to WordPress v 6.8.2
+* Added the introduction of other WooCommerce plugins  
+
+= 1.1.1 =
+* Testing up to WordPress v 6.1.8
+* Added the introduction of other WooCommerce plugins  
 
 = 1.1.0 =
 * Testing up to WordPress v 6.0.0

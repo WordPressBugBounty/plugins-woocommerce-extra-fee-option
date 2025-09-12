@@ -3,7 +3,7 @@
 Plugin Name: TT Extra Fee Option for WooCommerce
 Plugin URI: https://terrytsang.com/product/tt-woocommerce-extra-fee-option/
 Description: Allow you to add an extra fee with a minimum order to WooCommerce
-Version: 1.1.1
+Version: 1.1.2
 Author: Terry Tsang
 Author URI: https://terrytsang.com/products
 */
@@ -35,7 +35,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 define('wc_plugin_name_extra_fee_option', 'TT Extra Fee Option for WooCommerce');
 
 // Define plugin version
-define('wc_version_extra_fee_option', '1.1.1');
+define('wc_version_extra_fee_option', '1.1.2');
 
 
 // Checks if the WooCommerce plugins is installed and active.
